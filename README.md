@@ -14,7 +14,7 @@ Bitcoin: bc1q3prwstl54j3a5j58esepfkyrqfjn0ydr8p3vc7
 
 Also you can buy:
 
-fully assembled - $??
+fully assembled - $28.5
 
 Contact: hello@efektalab.com
 
