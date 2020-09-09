@@ -372,37 +372,37 @@ void reportTimeInk() {
     } else {
       switch (timeSend) {
         case 0:
-          DrawImageWH(&paith, 40, 90, sNum0, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum0, 24, 34, colorPrint);
           break;
         case 1:
-          DrawImageWH(&paith, 40, 90, sNum1, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum1, 24, 34, colorPrint);
           break;
         case 2:
-          DrawImageWH(&paith, 40, 90, sNum2, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum2, 24, 34, colorPrint);
           break;
         case 3:
-          DrawImageWH(&paith, 40, 90, sNum3, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum3, 24, 34, colorPrint);
           break;
         case 4:
-          DrawImageWH(&paith, 40, 90, sNum4, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum4, 24, 34, colorPrint);
           break;
         case 5:
-          DrawImageWH(&paith, 40, 90, sNum5, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum5, 24, 34, colorPrint);
           break;
         case 6:
-          DrawImageWH(&paith, 40, 90, sNum6, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum6, 24, 34, colorPrint);
           break;
         case 7:
-          DrawImageWH(&paith, 40, 90, sNum7, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum7, 24, 34, colorPrint);
           break;
         case 8:
-          DrawImageWH(&paith, 40, 90, sNum8, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum8, 24, 34, colorPrint);
           break;
         case 9:
-          DrawImageWH(&paith, 40, 90, sNum9, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum9, 24, 34, colorPrint);
           break;
         default:
-          DrawImageWH(&paith, 40, 90, sNumN, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNumN, 24, 34, colorPrint);
           break;
       }
     }
@@ -484,37 +484,37 @@ void reportTimeInk() {
     } else {
       switch (timeSend) {
         case 0:
-          DrawImageWH(&paith, 40, 90, sNum0d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum0d, 24, 34, colorPrint);
           break;
         case 1:
-          DrawImageWH(&paith, 40, 90, sNum1d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum1d, 24, 34, colorPrint);
           break;
         case 2:
-          DrawImageWH(&paith, 40, 90, sNum2d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum2d, 24, 34, colorPrint);
           break;
         case 3:
-          DrawImageWH(&paith, 40, 90, sNum3d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum3d, 24, 34, colorPrint);
           break;
         case 4:
-          DrawImageWH(&paith, 40, 90, sNum4d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum4d, 24, 34, colorPrint);
           break;
         case 5:
-          DrawImageWH(&paith, 40, 90, sNum5d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum5d, 24, 34, colorPrint);
           break;
         case 6:
-          DrawImageWH(&paith, 40, 90, sNum6d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum6d, 24, 34, colorPrint);
           break;
         case 7:
-          DrawImageWH(&paith, 40, 90, sNum7d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum7d, 24, 34, colorPrint);
           break;
         case 8:
-          DrawImageWH(&paith, 40, 90, sNum8d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum8d, 24, 34, colorPrint);
           break;
         case 9:
-          DrawImageWH(&paith, 40, 90, sNum9d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum9d, 24, 34, colorPrint);
           break;
         default:
-          DrawImageWH(&paith, 40, 90, sNumN, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNumN, 24, 34, colorPrint);
           break;
       }
     }
@@ -614,37 +614,37 @@ void reportBattInk() {
     } else {
       switch (battSend) {
         case 0:
-          DrawImageWH(&paith, 40, 90, sNum0, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum0, 24, 34, colorPrint);
           break;
         case 1:
-          DrawImageWH(&paith, 40, 90, sNum1, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum1, 24, 34, colorPrint);
           break;
         case 2:
-          DrawImageWH(&paith, 40, 90, sNum2, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum2, 24, 34, colorPrint);
           break;
         case 3:
-          DrawImageWH(&paith, 40, 90, sNum3, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum3, 24, 34, colorPrint);
           break;
         case 4:
-          DrawImageWH(&paith, 40, 90, sNum4, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum4, 24, 34, colorPrint);
           break;
         case 5:
-          DrawImageWH(&paith, 40, 90, sNum5, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum5, 24, 34, colorPrint);
           break;
         case 6:
-          DrawImageWH(&paith, 40, 90, sNum6, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum6, 24, 34, colorPrint);
           break;
         case 7:
-          DrawImageWH(&paith, 40, 90, sNum7, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum7, 24, 34, colorPrint);
           break;
         case 8:
-          DrawImageWH(&paith, 40, 90, sNum8, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum8, 24, 34, colorPrint);
           break;
         case 9:
-          DrawImageWH(&paith, 40, 90, sNum9, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum9, 24, 34, colorPrint);
           break;
         default:
-          DrawImageWH(&paith, 40, 90, sNumN, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNumN, 24, 34, colorPrint);
           break;
       }
     }
@@ -725,37 +725,37 @@ void reportBattInk() {
     } else {
       switch (battSend) {
         case 0:
-          DrawImageWH(&paith, 40, 90, sNum0d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum0d, 24, 34, colorPrint);
           break;
         case 1:
-          DrawImageWH(&paith, 40, 90, sNum1d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum1d, 24, 34, colorPrint);
           break;
         case 2:
-          DrawImageWH(&paith, 40, 90, sNum2d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum2d, 24, 34, colorPrint);
           break;
         case 3:
-          DrawImageWH(&paith, 40, 90, sNum3d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum3d, 24, 34, colorPrint);
           break;
         case 4:
-          DrawImageWH(&paith, 40, 90, sNum4d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum4d, 24, 34, colorPrint);
           break;
         case 5:
-          DrawImageWH(&paith, 40, 90, sNum5d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum5d, 24, 34, colorPrint);
           break;
         case 6:
-          DrawImageWH(&paith, 40, 90, sNum6d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum6d, 24, 34, colorPrint);
           break;
         case 7:
-          DrawImageWH(&paith, 40, 90, sNum7d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum7d, 24, 34, colorPrint);
           break;
         case 8:
-          DrawImageWH(&paith, 40, 90, sNum8d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum8d, 24, 34, colorPrint);
           break;
         case 9:
-          DrawImageWH(&paith, 40, 90, sNum9d, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNum9d, 24, 34, colorPrint);
           break;
         default:
-          DrawImageWH(&paith, 40, 90, sNumN, 24, 34, colorPrint);
+          DrawImageWH(&paith, 28, 90, sNumN, 24, 34, colorPrint);
           break;
       }
     }
