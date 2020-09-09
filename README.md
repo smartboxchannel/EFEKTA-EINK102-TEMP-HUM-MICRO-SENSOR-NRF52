@@ -22,3 +22,5 @@ Video:
 
 More info at https://www.efektalab.com/theink102.html
 
+![EFEKTA EINK102 TEMP HUM MICRO SENSOR NRF52](https://github.com/smartboxchannel/EFEKTA-EINK102-TEMP-HUM-MICRO-SENSOR-NRF52/blob/master/IMAGES/0001.jpg)
+
