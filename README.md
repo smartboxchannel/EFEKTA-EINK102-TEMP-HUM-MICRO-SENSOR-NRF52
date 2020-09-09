@@ -2,9 +2,9 @@
 Project of a temperature and humidity sensor with an electronic ink display 1.02 Inch ( GDEW0102T4 ), very low power consumption, very small device. The device uses a si7020/21, sht20/21 or HTU20/21D sensors. Used MINEW MS50SFA RF Module with nRF5210, nRF52811, nRF52832 chips.
 
 
-#### Donate me :)
+#### Donate me, ..I will make more and faster open devices :)
 
-PayPal: altigraph@yandex.com
+PayPal: altigraph@ya.ru
 
 Yandex Money: 4100140180242
 
