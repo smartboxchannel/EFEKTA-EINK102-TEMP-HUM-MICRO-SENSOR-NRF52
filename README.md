@@ -18,7 +18,7 @@ fully assembled - $??
 
 Contact: hello@efektalab.com
 
-Video: 
+Video: https://youtu.be/2zTEHTAr7lk
 
 More info at https://www.efektalab.com/theink102.html
 
