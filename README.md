@@ -14,7 +14,7 @@ Bitcoin: bc1q3prwstl54j3a5j58esepfkyrqfjn0ydr8p3vc7
 
 Also you can buy:
 
-fully assembled - $28.5
+fully assembled - $28.5  https://www.tindie.com/products/diyberk/temp-and-hum-mini-sensor-with-mini-e-ink-display/
 
 Contact: hello@efektalab.com
 
